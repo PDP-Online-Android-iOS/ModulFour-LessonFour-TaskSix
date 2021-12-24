@@ -1,0 +1,2 @@
+dev/ogabek/kotlin/BuildConfig.java
+ dev.ogabek.kotlin.BuildConfig

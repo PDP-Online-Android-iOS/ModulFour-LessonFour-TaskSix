@@ -1,0 +1,7 @@
+dev/ogabek/java/InformationActivity.java
+ dev.ogabek.java.InformationActivity
+dev/ogabek/java/MainActivity.java
+ dev.ogabek.java.MainActivity
+ dev.ogabek.java.MainActivity$1
+dev/ogabek/java/BuildConfig.java
+ dev.ogabek.java.BuildConfig
